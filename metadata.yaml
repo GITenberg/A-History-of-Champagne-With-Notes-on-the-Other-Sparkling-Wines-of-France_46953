@@ -1,4 +1,8 @@
 _repo: A-History-of-Champagne-With-Notes-on-the-Other-Sparkling-Wines-of-France_46953
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46953-h/images/cover.jpg
 creator:
   author:
     agent_name: Vizetelly, Henry
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4768
     wikipedia: http://en.wikipedia.org/wiki/Henry_Vizetelly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46953#A-History-of-Champagne-With-Notes-on-the-Other-Sparkling-Wines-of-France
 gutenberg_issued: '2014-09-24'
 gutenberg_type: Text
 identifiers:
